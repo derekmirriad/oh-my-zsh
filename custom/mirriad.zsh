@@ -1,6 +1,11 @@
 # Mirriad stuffs
 #
 
+# Environment
+#
+# hint for FindCUDA.cmake
+export CUDA_LIB_PATH=/usr/local/cuda/targets/x86_64-linux/lib/
+
 # Shortcuts
 automedia=/mnt/hub-t1-data/hub-t1/Creative\ Services/AUTOMATION/AUTOMATION/Media
 
